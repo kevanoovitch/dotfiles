@@ -134,6 +134,19 @@ button:hover {
     }
 }
 
+#bluetooth {
+  padding: 0 8px;
+  color: #89b4fa;
+}
+#bluetooth.connected {
+  color: #a6e3a1;
+}
+#bluetooth.off {
+  color: #f38ba8;
+}
+
+
+
 /* Using steps() instead of linear as a timing function to limit cpu usage */
 #battery.critical:not(.charging) {
     background-color: #f53c3c;
