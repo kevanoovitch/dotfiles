@@ -7,7 +7,7 @@
 {
     "label" : "hibernate",
     "action" : "systemctl hibernate",
-    "text" : "[DANGER] Test!! Hibernate",
+    "text" : "[DANGER] Hibernate",
     "keybind" : "h"
 }
 {
