@@ -29,5 +29,9 @@
   "theme.matugen_settings.variation": "vivid_3",
   "theme.matugen_settings.scheme_type": "expressive",
   "theme.matugen_settings.mode": "dark",
-  "theme.matugen_settings.contrast": -0.25
+  "theme.matugen_settings.contrast": -0.25,
+  "bar.workspaces.show_numbered": true,
+  "theme.bar.menus.menu.dashboard.profile.size": "8.5em",
+  "theme.bar.menus.menu.dashboard.profile.radius": "0.4em",
+  "menus.clock.weather.key": "${WEATHER_API_KEY}"
 }
