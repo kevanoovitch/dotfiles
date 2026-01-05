@@ -1,1 +1,3 @@
 .env
+#nwg-displays handles this file
+.config/hypr/monitors.conf
